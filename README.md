@@ -1,7 +1,7 @@
 # sudoku
 sudoku is a game that using python library(pygame) 
 
-##🚀feature
+## 🚀feature
 - Random generator puzzle using wave🔁
 - Player validation answer⭕
 - Highlight wrong answer❌
