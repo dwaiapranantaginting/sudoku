@@ -14,10 +14,14 @@ sudoku is a game that using python library(pygame)
   ``` bash
   git clone https://github.com/dwaiapranantaginting/sudoku
 - go to the project file
+  ``` bash
   cd pygame-sudoku
 - install pygame
+  ``` bash
   pip install pygame 
-- python main.py
+- run it!!
+  ``` bash
+  python main.py
 
 ## Author
 Created by Dwaia Prananta Ginting
